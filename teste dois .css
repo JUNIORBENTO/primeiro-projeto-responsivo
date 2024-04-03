@@ -79,48 +79,47 @@ color: black;
 }
 
 @media screen and (max-width:1000px ) {
+    a{
+        display: none;
     
-}
-
-a{
-    display: none;
-
-}
-
-button{
-margin-left: 10px;
-
-}
-img{
-    margin-left:20px;
-text-align: center;
-height: auto;
-display: block;
-margin-right: 40px;
-position: static;
-text-align: center;
-}
-
-h1{
-margin-top:100px ;
-display: block;
-margin-left: px;
-margin-right: px;
-text-align: center;
-}
-
-
-h2{
-margin-right: 50px;
-margin-left: 50px;
-}
-p{
-    display: none;
-}
-.button-main{
-
-    margin-top:10px;
-    margin-left: 15px;
-    padding:100 ;
+    }
+    
+    button{
+    margin-left: 10px;
+    
+    }
+    img{
+        margin-left:20px;
     text-align: center;
+    height: auto;
+    display: block;
+    margin-right: 40px;
+    position: static;
+    text-align: center;
+    }
+    
+    h1{
+    margin-top:100px ;
+    display: block;
+    margin-left: px;
+    margin-right: px;
+    text-align: center;
+    }
+    
+    
+    h2{
+    margin-right: 50px;
+    margin-left: 50px;
+    }
+    p{
+        display: none;
+    }
+    .button-main{
+    
+        margin-top:10px;
+        margin-left: 15px;
+        padding:100 ;
+        text-align: center;
+    }
 }
+
