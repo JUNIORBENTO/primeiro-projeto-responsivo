@@ -5,11 +5,11 @@
 
 <img src="https://github.com/JUNIORBENTO/primeiro-projeto-responsivo/blob/main/assets/desktop%20projeto%20cachorro.jpg.jpeg?raw=true">
 
-<h2>tecnoligias ultilizadas</h2
+<h2>tecnoligias ultilizadas:</h2
 
 -HTML
 
 -CSS 
 
 <H1>TEMOS NO MODO RESPONSIVO PARA CELULAR </H1>
-<img src="">
+<img src="https://github.com/JUNIORBENTO/primeiro-projeto-responsivo/blob/main/assets/mobile%20projeto%20cachorro.jpg.jpeg?raw=true">
